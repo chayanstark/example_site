@@ -1,4 +1,4 @@
-baseURL = "https://chayanstark.github.io/example_site/"
+baseURL = "/"
 languageCode = "en-us"
 publishDir = "docs"
 themesDir = "themes"
