@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "MediaInfo Context Menu"
+theme= "project-landing-page"
