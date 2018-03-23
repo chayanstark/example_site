@@ -1,0 +1,6 @@
+baseURL = "/"
+languageCode = "en-us"
+publishDir = "docs"
+themesDir = "themes"
+title = "MediaInfo Context Menu"
+theme= "project-landing-page"
