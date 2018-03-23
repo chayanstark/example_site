@@ -1,6 +1,7 @@
 baseurl = "https://chayanstark.github.io/example_site/"
 languageCode = "en-us"
 themesDir = "themes"
+publishDir ="docs"
 theme = "project-landing-page"
 title = "Swiftline"
 
